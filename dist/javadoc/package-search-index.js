@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.Alanjro_jr.capture"},{"l":"com.Alanjro_jr.main"},{"l":"com.Alanjro_jr.recognizer"},{"l":"com.Alanjro_jr.records"},{"l":"com.Alanjro_jr.util"}]
